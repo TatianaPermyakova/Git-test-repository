@@ -17,5 +17,7 @@ int _tmain()
 {
 	StudentName();
 	system ("PAUSE");
+	StudentGroup();
+    system ("PAUSE");
 	return 0;
 }

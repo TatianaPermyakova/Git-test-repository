@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.213,D:\MEGA\study\5 курс\10 семестр\Программирование\Project2PCH1.h=D:\MEGA\study\5 курс\10 семестр\Программирование\Git_LibraryPCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.114,=D:\MEGA\study\5 курс\10 семестр\Программирование\File2.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.541,D:\MEGA\study\5 курс\10 семестр\Программирование\File2.cpp=D:\MEGA\study\5 курс\10 семестр\Программирование\main_lib.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,D:\MEGA\study\5 курс\10 семестр\Программирование\main_lib.cpp=D:\MEGA\study\5 курс\10 семестр\Программирование\File2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,D:\MEGA\study\5 курс\10 семестр\Программирование\Git_Library.cbproj=D:\MEGA\study\5 курс\10 семестр\Программирование\Project2.cbproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.046,=D:\MEGA\study\5 курс\10 семестр\Программирование\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.903,D:\MEGA\study\5 курс\10 семестр\Программирование\Header.h=D:\MEGA\study\5 курс\10 семестр\Программирование\File3.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.606,=D:\MEGA\study\5 курс\10 семестр\Программирование\File3.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.903,D:\MEGA\study\5 курс\10 семестр\Программирование\File3.h=D:\MEGA\study\5 курс\10 семестр\Программирование\Header.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.762,D:\MEGA\study\5 курс\10 семестр\Программирование\Project2.cbproj=D:\MEGA\study\5 курс\10 семестр\Программирование\Git_Library.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.213,D:\MEGA\study\5 курс\10 семестр\Программирование\Git_LibraryPCH1.h=D:\MEGA\study\5 курс\10 семестр\Программирование\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.114,=D:\MEGA\study\5 курс\10 семестр\Программирование\File2.cpp</Transaction>
   </Transactions>
 </BorlandProject>

@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{C3F7C6CD-0BC2-44F8-BB92-D56D9417E0D3}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Git_test.cbproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Git_Library.cbproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Git_test">
+        <MSBuild Projects="Git_test.cbproj"/>
+    </Target>
+    <Target Name="Git_test:Clean">
+        <MSBuild Projects="Git_test.cbproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Git_test:Make">
+        <MSBuild Projects="Git_test.cbproj" Targets="Make"/>
+    </Target>
+    <Target Name="Git_Library">
+        <MSBuild Projects="Git_Library.cbproj"/>
+    </Target>
+    <Target Name="Git_Library:Clean">
+        <MSBuild Projects="Git_Library.cbproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Git_Library:Make">
+        <MSBuild Projects="Git_Library.cbproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Git_test;Git_Library"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Git_test:Clean;Git_Library:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Git_test:Make;Git_Library:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

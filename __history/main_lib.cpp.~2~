@@ -30,8 +30,3 @@ using namespace std;
 	cout << "Permyakova Tatiana Vladimirovna";
 }
 
-void StudentGroup()
-{
-	cout << "RI-541216";
-}
-

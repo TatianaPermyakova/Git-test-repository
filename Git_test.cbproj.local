@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.254,D:\MEGA\study\5 курс\10 семестр\Программирование\Git_testPCH1.h=D:\MEGA\study\5 курс\10 семестр\Программирование\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.374,D:\MEGA\study\5 курс\10 семестр\Программирование\Main_Test.cpp=D:\MEGA\study\5 курс\10 семестр\Программирование\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.454,D:\MEGA\study\5 курс\10 семестр\Программирование\Git_test.cbproj=D:\MEGA\study\5 курс\10 семестр\Программирование\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.844,=D:\MEGA\study\5 курс\10 семестр\Программирование\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.789,=D:\MEGA\study\5 курс\10 семестр\Программирование\Project1PCH1.h</Transaction>
+    <Transaction>2019.03.12 17:46:36.966,=D:\MEGA\study\5 course\10 sem\Programming\3. Git test\Win32\Debug\Git_Library.lib</Transaction>
+  </Transactions>
+</BorlandProject>

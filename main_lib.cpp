@@ -27,11 +27,11 @@ using namespace std;
 
  void StudentName()
 {
-	cout << "Permyakova Tatiana Vladimirovna";
+	cout << "Permyakova Tatiana Vladimirovna" << endl;
 }
 
 void StudentGroup()
 {
-	cout << "RI-541216";
+	cout << "RI-541216" << endl;
 }
 
